@@ -20,15 +20,9 @@ User Manual
 ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Manual/ECoFFeS_Manual.pdf
 
 
-Further Development
------------------------------------
-
-ECoFFeS Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Further_Development 
-
-
 License
 -----------------------------------
 
-ECoFFeS is freely available under the GNU General Public License. See LICENSE for more details.
+ECoFFeS is freely available under the GNU General Public License.
 
 LICENSE: https://github.com/JiaweiHuang/ECoFFeS/tree/master/License/LICENSE
