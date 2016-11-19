@@ -11,7 +11,7 @@ ECoFFeS is a software for feature selection using evolutionary computation
 Installation
 -----------------------------------
 
-ECoFFeS: https://github.com/Jiaweihuang/ECoFFeS/ECoFFeS_Installation
+ECoFFeS: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Installation
 
 
 User Manual
