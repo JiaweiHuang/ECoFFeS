@@ -19,7 +19,7 @@ ECoFFeS: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Installation
 User Manual
 -----------------------------------
 
-CONTENTS: Installation, Graphical User Interface, Introduction of ECoFFeS, and Applications of ECoFFeS
+Contents: Installation, Graphical User Interface, Introduction of ECoFFeS, and Applications of ECoFFeS
 
 ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Manual/ECoFFeS_Manual.pdf
 
