@@ -20,6 +20,14 @@ User Manual
 ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Manual/ECoFFeS_Manual.pdf
 
 
+Further Development
+-----------------------------------
+
+ECoFFeS is an open-source software which is developed based on MATLAB(Windows/Linux/Mac), release >= R2016a.
+
+ECoFFeS's Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Further_Development
+
+
 License
 -----------------------------------
 
