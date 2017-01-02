@@ -56,15 +56,15 @@ Internal Structure of ECoFFeS
 
 Characteristics of ECoFFeS
 -----------------------------------
-1)ECoFFeS is a free standalone software which does not require any knowledge of programming for the researchers.
+1 ) ECoFFeS is a free standalone software which does not require any knowledge of programming for researchers.
 
-2)ECoFFeS is an open source software which enables easy extension for custom optimization problems and integration with more sophisticated analysis tools.
+2 ) ECoFFeS is an open source software which enables easy extension for custom optimization problems.
 
-3)With the help of two newly designed and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rank of the important features.
+3 ) With the help of two newly modified and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rank of the important features.
 
-4)On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
+4 ) On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
 
-5)ECoFFeS supports parallel execution which is a useful strategy to make full use of the processing ability of multi-core computers and to significantly reduce the computational time.
+5 ) ECoFFeS supports parallel execution which is a useful strategy to make full use of the processing ability of multi-core computers and to significantly reduce the computational time.
 
 
 
