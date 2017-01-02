@@ -50,5 +50,13 @@ Recent decade has witnessed significant progress in the development of feature s
 However, feature selection remains a challenging task due to the fact that it is an NP-hard problem, in which the total number of possible feature subsets is 2^n-1 (n is the number of features). To deal with this issue, many search methods have been proposed, such as complete search, greedy search, and heuristic search. Nevertheless, most of them tend to suffer from stagnation in a local optimum. Evolutionary computation, as a kind of powerful global search method inspired by nature, has attracted a high level of interest from the feature selection research community. For the purpose of further boosting evolutionary computation for feature selection, we develop a user-friendly and standalone software named ECoFFeS (Evolutionary Computation For Feature Selection).
 
 
+Internal Structure
+-----------------------------------
+.. image:: Logo/internal_structure.png
+   :align: center
+
+
+
+
 
 
