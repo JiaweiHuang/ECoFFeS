@@ -45,7 +45,7 @@ Jiawei Huang, Yong Wang and Dongsheng Cao. ECoFFeS: a software for feature selec
 Abstract
 -----------------------------------
 
-Feature Selection is of particular importance to numerous applications in the fields of bioinformatics and cheminformatics. Among those methods for feature selection, evolutionary computation has recently gained increasing attention owing to its superior global search ability. To facilitate researchers to take advantage of evolutionary computation for feature selection, we present a user-friendly and standalone software named ECoFFeS. To the best of our knowledge, it is the first software to integrate a set of evolutionary algorithms (including two modified evolutionary algorithms proposed by the authors) with various evaluation combinations for feature selection. In addition, ECoFFeS supports parallel execution which can significantly reduce the total analysis time.
+Feature Selection is of particular importance to numerous applications in the fields of bioinformatics and cheminformatics. Among those methods for feature selection, evolutionary computation has recently gained increasing attention owing to its superior global search ability. To facilitate researchers to take advantage of evolutionary computation for feature selection, we present a user-friendly and standalone software named ECoFFeS. To the best of our knowledge, it is the first software to integrate a set of evolutionary algorithms (including two modified evolutionary algorithms proposed by the authors) with various evaluation combinations for feature selection. Among these evolutionary algorithms, four are single-objective evolutionary algorithms and two are multi-objective evolutionary algorithms. In addition, ECoFFeS supports parallel execution which can significantly reduce the total analysis time.
 
 
 Internal Structure of ECoFFeS
@@ -57,9 +57,13 @@ Internal Structure of ECoFFeS
 Characteristics of ECoFFeS
 -----------------------------------
 1)ECoFFeS is a free standalone software which does not require any knowledge of programming for the researchers.
+
 2)ECoFFeS is an open source software which enables easy extension for custom optimization problems and integration with more sophisticated analysis tools.
+
 3)With the help of two newly designed and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rank of the important features.
+
 4)On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
+
 5)ECoFFeS supports parallel execution which is a useful strategy to make full use of the processing ability of multi-core computers and to significantly reduce the computational time.
 
 
