@@ -42,12 +42,10 @@ Publication
 Jiawei Huang, Yong Wang and Dongsheng Cao. ECoFFeS: a software for feature selection using evolutionary computation. In submission.
 
 
-Introduction
+Abstract
 -----------------------------------
 
-Recent decade has witnessed significant progress in the development of feature selection for many bioinformatics and cheminformatics applications, such as sequence analysis, microarray analysis, mass spectra (MS) analysis, single nucleotide polymorphism (SNP) analysis, and quantitative structure-activity relationship (QSAR) analysis. Compared with other dimensionality reduction techniques, feature selection merely selects a feature subset and does not alter the original representation of the features. Thus, the selected feature subset preserves the semantics of the features while offering the advantage of interpretability. For example, in QSAR analysis, the selected feature subset improves the interpretability of relationship between descriptors and biological activities.
-
-However, feature selection remains a challenging task due to the fact that it is an NP-hard problem, in which the total number of possible feature subsets is 2^n-1 (n is the number of features). To deal with this issue, many search methods have been proposed, such as complete search, greedy search, and heuristic search. Nevertheless, most of them tend to suffer from stagnation in a local optimum. Evolutionary computation, as a kind of powerful global search method inspired by nature, has attracted a high level of interest from the feature selection research community. For the purpose of further boosting evolutionary computation for feature selection, we develop a user-friendly and standalone software named ECoFFeS (Evolutionary Computation For Feature Selection).
+Feature Selection is of particular importance to numerous applications in the fields of bioinformatics and cheminformatics. Among those methods for feature selection, evolutionary computation has recently gained increasing attention owing to its superior global search ability. To facilitate researchers to take advantage of evolutionary computation for feature selection, we present a user-friendly and standalone software named ECoFFeS. To the best of our knowledge, it is the first software to integrate a set of evolutionary algorithms (including two modified evolutionary algorithms proposed by the authors) with various evaluation combinations for feature selection. In addition, ECoFFeS supports parallel execution which can significantly reduce the total analysis time.
 
 
 Internal Structure of ECoFFeS
@@ -56,6 +54,13 @@ Internal Structure of ECoFFeS
    :align: center
 
 
+Characteristics of ECoFFeS
+-----------------------------------
+1)ECoFFeS is a free standalone software which does not require any knowledge of programming for the researchers.
+2)ECoFFeS is an open source software which enables easy extension for custom optimization problems and integration with more sophisticated analysis tools.
+3)With the help of two newly designed and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rank of the important features.
+4)On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
+5)ECoFFeS supports parallel execution which is a useful strategy to make full use of the processing ability of multi-core computers and to significantly reduce the computational time.
 
 
 
