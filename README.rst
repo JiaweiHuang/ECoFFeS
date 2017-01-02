@@ -2,10 +2,8 @@
    :align: center
 
 
-Introduction
+ECoFFeS: a software for feature selection using evolutionary computation
 -----------------------------------
-
-ECoFFeS is a software for feature selection using evolutionary computation. To the best of our knowledge, it is the first software to integrate a set of evolutionary algorithms (including two modified evolutionary algorithms proposed by the authors) with various evaluation combinations for feature selection.
 
 
 Installation
