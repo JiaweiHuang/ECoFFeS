@@ -28,6 +28,12 @@ ECoFFeS is an open-source software which is developed based on MATLAB(Windows/Li
 ECoFFeS's Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Further_Development
 
 
+PPT
+-----------------------------------
+
+ECoFFeS's PPT: https://github.com/JiaweiHuang/ECoFFeS/tree/master/PPT
+
+
 License
 -----------------------------------
 
@@ -64,7 +70,7 @@ Characteristics of ECoFFeS
 
 2 ) ECoFFeS is an open source software which enables easy extension for custom optimization problems.
 
-3 ) With the help of two newly modified and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rank of the important features.
+3 ) With the help of two newly modified and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rankings of the important features.
 
 4 ) On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
 
