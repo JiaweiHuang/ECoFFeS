@@ -23,13 +23,15 @@ ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Manua
 Further Development
 -----------------------------------
 
-ECoFFeS is an open-source software which is developed based on MATLAB(Windows/Linux/Mac), release >= R2016a.
+ECoFFeS is an open-source software which is developed based on MATLAB(Windows/Linux/Mac), release >= R2016a
 
 ECoFFeS's Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Further_Development
 
 
 PPT
 -----------------------------------
+
+A brief introduction to ECoFFeS
 
 ECoFFeS's PPT: https://github.com/JiaweiHuang/ECoFFeS/tree/master/PPT
 
@@ -45,7 +47,7 @@ LICENSE: https://github.com/JiaweiHuang/ECoFFeS/tree/master/License/LICENSE
 Publication
 -----------------------------------
 
-Jiawei Huang, Yong Wang and Dongsheng Cao. ECoFFeS: a software for feature selection using evolutionary computation. In submission.
+Jiawei Huang, Yong Wang, Alex F Chen and Dongsheng Cao. ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms. In submission.
 
 
 Abstract
