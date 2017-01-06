@@ -1,4 +1,4 @@
-ECoFFeS: a software for feature selection using evolutionary computation
+ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms
 -----------------------------------
 .. image:: Logo/logo.png
    :align: center
@@ -23,7 +23,7 @@ ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Manua
 Further Development
 -----------------------------------
 
-ECoFFeS is an open-source software which is developed based on MATLAB(Windows/Linux/Mac), release >= R2016a
+ECoFFeS is an open-source software which is developed based on MATLAB (Windows/Linux/Mac), release >= R2016a
 
 ECoFFeS's Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Further_Development
 
