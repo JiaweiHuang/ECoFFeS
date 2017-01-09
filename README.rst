@@ -1,6 +1,6 @@
 ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms
 -----------------------------------
-.. image:: Logo/logo.png
+.. image:: Others/Logo/logo.png
    :align: center
 
 
@@ -58,7 +58,7 @@ Feature Selection is of particular importance to numerous applications in the fi
 
 Internal Structure of ECoFFeS
 -----------------------------------
-.. image:: Logo/internal_structure.png
+.. image:: Others/Logo/internal_structure.png
    :align: center
 
 1 ) Subset Discovery is a search procedure to generate candidate feature subsets. ECoFFeS involves two novel EAs (modified DE and modified MOEA/D proposed by the authors) and four existing state-of-the-art EAs, namely, ACO, GA, PSO, and NSGA-II. Among them, four are single-objective EAs (SOEAs) and two are multi-objective EAs (MOEAs).
