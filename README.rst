@@ -25,7 +25,7 @@ Further Development
 
 ECoFFeS is an open-source software which is developed based on MATLAB (Windows/Linux/Mac), release >= R2016a
 
-ECoFFeS's Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Further_Development
+ECoFFeS's Source Code: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/Further_Development
 
 
 PPT
@@ -33,7 +33,7 @@ PPT
 
 A brief introduction to ECoFFeS
 
-ECoFFeS's PPT: https://github.com/JiaweiHuang/ECoFFeS/tree/master/PPT
+ECoFFeS's PPT: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/PPT
 
 
 License
@@ -41,7 +41,7 @@ License
 
 ECoFFeS is freely available under the GNU General Public License.
 
-LICENSE: https://github.com/JiaweiHuang/ECoFFeS/tree/master/License/LICENSE
+LICENSE: https://github.com/JiaweiHuang/ECoFFeS/blob/master/Others/License/LICENSE
 
 
 Publication
