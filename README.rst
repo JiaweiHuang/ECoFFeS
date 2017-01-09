@@ -1,6 +1,5 @@
 ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms
-
-“”“”“”“”“”“”“”“”“”“”“”“”“”“”“”“”“”“
+-----------------------------------
 
 .. image:: Others/Logo/logo.png
    :align: center
@@ -9,7 +8,7 @@ ECoFFeS: a software for feature selection using single/multi-objective evolution
 Installation
 -----------------------------------
 
-Operating Systems: 64-Bit, WinServer 2012 / Win7 SP1 / Win8 / Win8.1 / Win10
+*Operating Systems: 64-Bit, WinServer 2012 / Win7 SP1 / Win8 / Win8.1 / Win10
 
 ECoFFeS: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Installation
 
