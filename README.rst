@@ -81,9 +81,11 @@ A Case Study - Microarray Analysis
 -----------------------------------
 More case studys please refer to user manual.
 
-1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset). Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: class discovery and class prediction by gene expression monitoring[J]. science, 1999, 286(5439): 531-537.
+1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset).
 
-2 ) Data Pre-processing: Data pre-processing is of great importance and can have heavy influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes (or even only a few genes) are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
+Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: class discovery and class prediction by gene expression monitoring[J]. science, 1999, 286(5439): 531-537.
+
+2 ) Data Pre-processing: Data pre-processing is of great importance and can have heavy influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 100 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
 
 3 ) Results: 
 
