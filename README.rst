@@ -89,11 +89,11 @@ Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: clas
 
 Leukemiatrain_pretreat.xlsx
 
-
+https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/Experiment_Datasets/Microarray_Aanlysis
 
 3 ) Parameters of "SOEAs_Classification"
 
-; SOEA: DE; Model: PLS-DA; Metric: MCC; Popsize: 100; Iteration: 200; Runs: 10;
+SOEA: DE; Model: PLS-DA; Metric: MCC; Popsize: 100; Iteration: 200; Runs: 10;
 
 
 3 ) Results: 
