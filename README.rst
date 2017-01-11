@@ -87,9 +87,7 @@ Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: clas
 
 ( 2 ) Data Pre-processing: Data pre-processing is of great importance and can have heavy influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
 
-Leukemiatrain_pretreat.xlsx
-
-https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/Experiment_Datasets/Microarray_Aanlysis
+Leukemiatrain_pretreat.xlsx: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/Experiment_Datasets/Microarray_Aanlysis
 
 ( 3 ) Parameters of "SOEAs_Classification"
 
