@@ -81,24 +81,24 @@ A Case Study - Microarray Analysis
 -----------------------------------
 More case studys please refer to user manual.
 
-1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset), it investigates the expression of two different subtypes of leukemia (47 ALL and 25 AML).
+( 1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset), it investigates the expression of two different subtypes of leukemia (47 ALL and 25 AML).
 
 Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: class discovery and class prediction by gene expression monitoring[J]. science, 1999, 286(5439): 531-537.
 
-2 ) Data Pre-processing: Data pre-processing is of great importance and can have heavy influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
+( 2 ) Data Pre-processing: Data pre-processing is of great importance and can have heavy influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
 
 Leukemiatrain_pretreat.xlsx
 
 https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/Experiment_Datasets/Microarray_Aanlysis
 
-3 ) Parameters of "SOEAs_Classification"
+( 3 ) Parameters of "SOEAs_Classification"
 
 SOEA: DE; Model: PLS-DA; Metric: MCC; Popsize: 100; Iteration: 200; Runs: 10;
 
+( 4 ) Results: 
 
-3 ) Results: 
-
-
+.. image:: Others/Logo/Frequency_Figure.png
+   :align: center
 
 
 
