@@ -96,9 +96,9 @@ Leukemiatrain_pretreat.xlsx: https://github.com/JiaweiHuang/ECoFFeS/tree/master/
 .. image:: Others/Logo/Frequency_Figure.png
    :align: center
 
+According to the frequency figure, 17 genes with the highest selection frequency are listed as follows.
 
-
-
+M86406_at, M37190_at, U43292_at, X63469_at, U22376_cds2_s_at, HG4188-HT4458_at, L11669_at, L49054_at, X17094_at, X55668_at, X95735_at, Z32765_at, L07807_s_at, Y00787_s_at, M63838_s_at, X15673_s_at, HG3921-HT4191_f_at.
 
 
 
