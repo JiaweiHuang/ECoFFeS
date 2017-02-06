@@ -39,7 +39,7 @@ License
 
 ECoFFeS is freely available under the GNU General Public License.
 
-LICENSE: https://github.com/JiaweiHuang/ECoFFeS/blob/master/Others/License/LICENSE
+License: https://github.com/JiaweiHuang/ECoFFeS/blob/master/Others/License/LICENSE
 
 
 Publication
