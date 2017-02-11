@@ -45,7 +45,7 @@ License: https://github.com/JiaweiHuang/ECoFFeS/blob/master/Others/License/LICEN
 Publication
 -----------------------------------
 
-Jiawei Huang, Yong Wang, Alex F Chen and Dongsheng Cao. ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms. In submission.
+Jiawei Huang, Yong Wang, Alex F Chen, Dongsheng Cao and Shengxiang Yang. ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms. In submission.
 
 
 Abstract
