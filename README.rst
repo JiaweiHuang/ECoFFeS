@@ -2,18 +2,18 @@
    :align: center
 
 
-Installation
+Installer
 -----------------------------------
 
 Operating Systems: 64-Bit, WinServer 2012 / Win7 SP1 / Win8 / Win8.1 / Win10
 
-ECoFFeS: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Installation
+ECoFFeS's Installer: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Installation
 
 
 User Manual
 -----------------------------------
 
-Contents: Installation, Graphical User Interface, Introduction of ECoFFeS, and Applications of ECoFFeS
+Contents: Installation Guide, Graphical User Interface, Introduction of ECoFFeS, and Applications of ECoFFeS
 
 ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_Manual/ECoFFeS_Manual.pdf
 
