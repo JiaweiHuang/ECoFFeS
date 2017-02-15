@@ -13,7 +13,7 @@ ECoFFeS's Installer: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_
 User Manual
 -----------------------------------
 
-Contents: Installation Guide, Graphical User Interface, Introduction of ECoFFeS, and Applications of ECoFFeS
+Contents: Installation Guide, Graphical User Interface, Introduction to ECoFFeS, and Applications of ECoFFeS
 
 ECoFFeS Manual: https://github.com/JiaweiHuang/ECoFFeS/tree/master/ECoFFeS_User_Manual/ECoFFeS_Manual.pdf
 
@@ -66,11 +66,11 @@ Internal Structure of ECoFFeS
    
 Characteristics of ECoFFeS
 -----------------------------------
-1 ) ECoFFeS is a free standalone software which does not require any knowledge of programming for researchers.
+1 ) ECoFFeS is a free standalone software which does not require researchers to have any knowledge of programming.
 
-2 ) ECoFFeS is an open source software which enables easy extension for custom optimization problems.
+2 ) ECoFFeS is an open-source software which can be readily extended to solve customized optimization problems.
 
-3 ) With the help of two newly modified and multiple state-of-the-art EAs, ECoFFeS is able to obtain a set of non-dominated feature subsets and the rankings of the important features.
+3 ) If feature selection is treated as a single-objective optimization problem, SOEAs aim at obtaining a satisfactory feature subset and providing the rankings of the important features simultaneously. On the other hand, if feature selection is formulated as a multi-objective optimization problem, by utilizing MOEAs, we expect to maintain a set of non-dominated feature subsets with a tradeoff between the number of features and the corresponding metric. Afterwards, the decision maker can select one final feature subset that matches at most his/her preference.
 
 4 ) On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
 
@@ -79,28 +79,27 @@ Characteristics of ECoFFeS
 
 A Case Study - Microarray Analysis
 -----------------------------------
-More case studys please refer to user manual.
 
-( 1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset), it investigates the expression of two different subtypes of leukemia (47 ALL and 25 AML).
+( 1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset), which investigates the expression of two different subtypes of leukemia (47 ALL and 25 AML).
 
 Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: class discovery and class prediction by gene expression monitoring[J]. science, 1999, 286(5439): 531-537.
 
-( 2 ) Data Pre-processing: Data pre-processing is of great importance and can have heavy influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
+( 2 ) Data Pre-processing: Data pre-processing is of great importance and can have significant influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
 
 Leukemiatrain_pretreat.xlsx: https://github.com/JiaweiHuang/ECoFFeS/tree/master/Others/Experiment_Datasets/Microarray_Aanlysis
 
-( 3 ) Parameters of "SOEAs_Classification" —— SOEA: DE; Model: PLS-DA; Metric: MCC; Popsize: 100; Iteration: 200; Runs: 10;
+( 3 ) Parameters of "SOEAs_Classification" —— SOEA: DE; Model: PLS-DA; Metric: MCC; Popsize: 100; Iteration: 200; and Runs: 10;
 
-( 4 ) Results: 
+( 4 ) Experimental Results: 
 
 .. image:: Others/Logo/Frequency_Figure.png
    :align: center
 
-According to the frequency figure, 17 genes with the highest selection frequency are listed as follows.
+According to the above figure, 17 genes with the highest selection frequency are listed as follows.
 
 M86406_at, M37190_at, U43292_at, X63469_at, U22376_cds2_s_at, HG4188-HT4458_at, L11669_at, L49054_at, X17094_at, X55668_at, X95735_at, Z32765_at, L07807_s_at, Y00787_s_at, M63838_s_at, X15673_s_at, HG3921-HT4191_f_at.
 
-
+`More case studies please refer to user manual.`
 
 
 
