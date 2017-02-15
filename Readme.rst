@@ -74,7 +74,7 @@ Characteristics of ECoFFeS
 
 4 ) On the basis of Subset Discovery and Subset Evaluation, ECoFFeS is a generic tool to tackle feature selection problems in different types of applications.
 
-5 ) ECoFFeS supports parallel execution which is a useful strategy to make full use of the processing ability of multi-core computers and to significantly reduce the computational time.
+5 ) ECoFFeS supports parallel execution which is a useful strategy to make full use of the processing ability of multi-core computers and to significantly reduce computational time.
 
 
 A Case Study - Microarray Analysis
