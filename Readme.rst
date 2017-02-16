@@ -82,7 +82,7 @@ A Case Study - Microarray Analysis
 
 ( 1 ) Dataset: "Leukemia" dataset (a benchmark microarray dataset), which investigates the expression of two different subtypes of leukemia (47 ALL and 25 AML).
 
-Golub T R, Slonim D K, Tamayo P, et al. Molecular classification of cancer: class discovery and class prediction by gene expression monitoring[J]. science, 1999, 286(5439): 531-537.
+Golub, Todd R., et al. "Molecular classification of cancer: class discovery and class prediction by gene expression monitoring." *science* 286.5439 (1999): 531-537.
 
 ( 2 ) Data Pre-processing: Data pre-processing is of great importance and can have significant influence on the success of the overall analysis. Based on the previous studies, only a few dozens of genes are needed for sample classification in general. Therefore, for "Leukemia" dataset 200 genes are pre-filtered from the train sets, which are then suitable for follow up precise gene selection.
 
@@ -97,7 +97,7 @@ Leukemiatrain_pretreat.xlsx: https://github.com/JiaweiHuang/ECoFFeS/tree/master/
 
 According to the above figure, 17 genes with the highest selection frequency are listed as follows.
 
-M86406_at, M37190_at, U43292_at, X63469_at, U22376_cds2_s_at, HG4188-HT4458_at, L11669_at, L49054_at, X17094_at, X55668_at, X95735_at, Z32765_at, L07807_s_at, Y00787_s_at, M63838_s_at, X15673_s_at, and HG3921-HT4191_f_at.
+``M86406_at``, ``M37190_at``, ``U43292_at``, ``X63469_at``, ``U22376_cds2_s_at``, ``HG4188-HT4458_at``, ``L11669_at``, ``L49054_at``, ``X17094_at``, ``X55668_at``, ``X95735_at``, ``Z32765_at``, ``L07807_s_at``, ``Y00787_s_at``, ``M63838_s_at``, ``X15673_s_at``, and ``HG3921-HT4191_f_at``.
 
 **More case studies please refer to user manual.**
 
