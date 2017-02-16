@@ -45,7 +45,7 @@ License: https://github.com/JiaweiHuang/ECoFFeS/blob/master/Others/License/LICEN
 Publication
 -----------------------------------
 
-Jiawei Huang, Yong Wang, Alex F Chen, Shengxiang Yang and Dongsheng Cao. ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms. In submission.
+Jiawei Huang, Yong Wang, Alex F Chen, Shengxiang Yang and Dongsheng Cao. ECoFFeS: a software for feature selection using single/multi-objective evolutionary algorithms. *In submission.*
 
 
 Abstract
@@ -99,7 +99,7 @@ According to the above figure, 17 genes with the highest selection frequency are
 
 M86406_at, M37190_at, U43292_at, X63469_at, U22376_cds2_s_at, HG4188-HT4458_at, L11669_at, L49054_at, X17094_at, X55668_at, X95735_at, Z32765_at, L07807_s_at, Y00787_s_at, M63838_s_at, X15673_s_at, HG3921-HT4191_f_at.
 
-*More case studies please refer to user manual.*
+**More case studies please refer to user manual.**
 
 
 
