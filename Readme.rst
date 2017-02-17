@@ -68,7 +68,7 @@ Characteristics of ECoFFeS
 -----------------------------------
 ( 1 ) ECoFFeS is a free standalone software which does not require researchers to have any knowledge of programming.
 
-( 2 ) ECoFFeS is an open-source software which can be readily extended to solve customized optimization problems.
+( 2 ) ECoFFeS is an open-source software which can be readily extended to solve customized feature selection problems.
 
 ( 3 ) If feature selection is treated as a single-objective optimization problem, SOEAs aim at obtaining a satisfactory feature subset and providing the rankings of the important features simultaneously. On the other hand, if feature selection is formulated as a multi-objective optimization problem, by utilizing MOEAs, we expect to maintain a set of non-dominated feature subsets with a tradeoff between the number of features and the corresponding metric. Afterwards, the decision maker can select one final feature subset that matches at most his/her preference.
 
