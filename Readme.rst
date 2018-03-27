@@ -45,13 +45,13 @@ License: https://github.com/JiaweiHuang/ECoFFeS/blob/master/Others/License/LICEN
 Publication
 -----------------------------------
 
-Zhizhong Liu, Jiawei Huang, Yong Wang and Dongsheng Cao. ECoFFeS: A Software Using Evolutionary Computation for Feature Selection in Drug Discovery. *In submission.*
+Zhi-Zhong Liu, Jia-Wei Huang, Yong Wang and Dong-Sheng Cao. ECoFFeS: A Software Using Evolutionary Computation for Feature Selection in Drug Discovery. IEEE Access, *in press*.
 
 
 Abstract
 -----------------------------------
 
-Feature Selection is of particular importance in the field of drug discovery. To address this problem, many attempts have been made in recent decades. Among them, evolutionary computation has gained increasing attention owing to its superior global search ability. However, there still lacks a simple and efficient software for drug developers to take advantage of evolutionary computation for feature selection. To remedy this issue, in this paper, a user-friendly and standalone software,named as ECoFFeS, is developed. ECoFFeS is expected to lower the entry barrier for drug developers to address feature selection problems at hand by using evolutionary algorithms. As to the best of our knowledge, it is the first software integrating a set of evolutionary algorithms (including two modified evolutionary algorithms proposed by the authors) with various evaluation combinations for feature selection. Specifically, ECoFFeS considers both single-objective and multi-objective evolutionary algorithms,and both regression- and classification-based models to meet different requirements. Five datasets in drug discovery are carefully collected in ECoFFeS. In addition, to reduce the total analysis time, the parallel execution technique is supported in the proposed software.
+Feature selection is of particular importance in the field of drug discovery. Many methods have been put forward for feature selection during recent decades. Among them, evolutionary computation has gained increasing attention owing to its superior global search ability. However, there still lacks a simple and efficient software for drug developers to take advantage of evolutionary computation for feature selection. To remedy this issue, in this paper, a user-friendly and standalone software, named ECoFFeS, is developed. ECoFFeS is expected to lower the entry barrier for drug developers to deal with feature selection problems at hand by using evolutionary algorithms. To the best of our knowledge, it is the first software integrating a set of evolutionary algorithms (including two modified evolutionary algorithms proposed by the authors) with various evaluation combinations for feature selection. Specifically, ECoFFeS considers both single-objective and multi-objective evolutionary algorithms, and both regression- and classification-based models to meet different requirements. Five datasets in drug discovery are collected in ECoFFeS. In addition, to reduce the total analysis time, the parallel execution technique is incorporated into ECoFFeS. 
 
 
 
